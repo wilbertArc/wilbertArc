@@ -1,5 +1,5 @@
 ## Hi there, I'm Wilbert! 👋
-I'm a Computer Science student in BINUS University 🇮🇩, currently on an exchange student program in Hanyang University 🇰🇷, exploring **Information Security**, **Business Analytics**, and **Data Science**.
+I'm a Computer Science student in **BINUS University** 🇮🇩, currently on an exchange student program in **Hanyang University** 🇰🇷, exploring Information Security, Business Analytics, and Data Science.
 
 **🔭 I’m currently working on:**
 * Multimodal Financial Analysis: Investigating the fusion of price time-series and corporate report text features for market forecasting.
