@@ -14,6 +14,7 @@ I'm a Computer Science student in **BINUS University** 🇮🇩, currently on an
 ### **🌱 I’m currently learning**
 * Multimodal Machine Learning: Investigating the fusion of price time-series data and corporate report text features for predictive financial analysis.
 * Information Security: Analyzing software vulnerabilities like buffer overflows, exploring malware mechanics, and performing network reconnaissance using Nmap.
+* Data Science: Exploring predictive analytics, time-series forecasting, feature engineering, and model evaluation, and visualization tools.
 
 ### **📫 How to reach me:**
 * LinkedIn: [wilberttan](https://www.linkedin.com/in/wilberttan)
